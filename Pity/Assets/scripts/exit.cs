@@ -10,7 +10,7 @@ public class exit : MonoBehaviour {
 	}
 
 	void OnTriggerEnter (Collider other) {
-		UnityEngine.SceneManagement.SceneManager.LoadScene (1);
+		UnityEngine.SceneManagement.SceneManager.LoadScene (2);
 
 	}
 }

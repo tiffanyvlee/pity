@@ -4,6 +4,6 @@ using System.Collections;
 public class start : MonoBehaviour {
 
 	public void LoadScene(string pity) {
-		UnityEngine.SceneManagement.SceneManager.LoadScene (0);
+		UnityEngine.SceneManagement.SceneManager.LoadScene (1);
 	}
 }
